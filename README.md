@@ -1,4 +1,4 @@
-The Ocean Environment of the Northern Strait of Georgia
+The Ocean Environment of the Northern Strait of Georgia \n
 Kyle Fawkes
 2015-11-09
 Root directory
